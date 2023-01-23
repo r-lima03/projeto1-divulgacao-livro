@@ -5,6 +5,7 @@ A proposta desse projeto é criar uma página web utilizando as tecnologias HTML
 Ao criar a página desse projeto, pude colocar em prática os seguintes conceitos:
 
 • Utilizar tags HTML (básicas)
+
 • Estilizar uma página com CSS
 
 
